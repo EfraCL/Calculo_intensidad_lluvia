@@ -1,0 +1,9 @@
+intensidad<-function(x,amplitud){
+  c<-c()
+  i<-1
+  a<-amplitud-1
+  lon<-length(x)-a
+  while(i<=lon){
+    c[i]<-sum(x[i:(i+a)])
+    i<-i+1}
+  return(c)}
