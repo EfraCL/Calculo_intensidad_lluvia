@@ -1,3 +1,5 @@
+*intensidad()*
+
 ## Finalidad y fundamento 
 El objetivo principal de esta función es calcular la lluvia caída durante un intervalo de tiempo cualquiera, es decir, para calcular la intensidad de la lluvia.
 
