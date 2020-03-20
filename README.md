@@ -4,7 +4,7 @@ El objetivo principal de esta función es calcular la lluvia caída durante un i
 El fundamento matemático de la función es el siguiente: un conjunto de datos (o vector) de longitud N puede ser subdivido en [N-(A-1)] 
 subconjuntos consecutivos de amplitud A.
 
-## Argumentos de la función
+## Argumentos
 La función **intensidad()** admite dos argumentos:
 - **x**: es el vector a utilizar para realizar los subconjuntos sobre los que se aplicará una función determinada.
 - **amplitud**: este argumento hace referencia a, como su propio nombre indica, a la amplitud de los subconjuntos sobre los que
