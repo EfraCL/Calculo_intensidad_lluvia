@@ -11,7 +11,7 @@ La función **intensidad()** admite dos argumentos:
 queremos aplicar una función concreta. Por ejemplo, si queremos aplicar la función sum() en subconjuntos de 3, 4 o 5 elementos.
 
 ## Observaciones
-Por defecto la función aplica la función sum() a cada subconjunto de datos, ya que era la función necesaria para
+Por defecto la función aplica la función sum() a cada subconjunto de datos, ya que es la función necesaria para
 calcular la intensidad de lluvia.
 
 ## Ejemplo:
