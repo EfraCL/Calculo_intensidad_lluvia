@@ -1,9 +1,9 @@
 *intensidad()*
 
-## Finalidad y fundamento 
+## Finalidad
 El objetivo principal de esta función es calcular la lluvia caída durante un intervalo de tiempo cualquiera, es decir, para calcular la intensidad de la lluvia.
 
-El fundamento matemático de la función es el siguiente: un conjunto de datos (o vector) de longitud N puede ser subdivido en [N-(A-1)] 
+Para ello, la función que he creado se basa en que un conjunto de datos (o vector) de longitud n puede ser subdivido en [n-(A-1)] 
 subconjuntos consecutivos de amplitud A.
 
 ## Argumentos de la función
